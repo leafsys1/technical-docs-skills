@@ -1,0 +1,4 @@
+interface:
+  display_name: "技术文档审查"
+  short_description: "审查技术手册的事实依据、步骤可执行性、验收判据和排版，优先发现影响复现的缺陷"
+  default_prompt: "使用 $technical-docs-review 审查这份技术手册，按影响程度列出阻止复现的问题和证据。"

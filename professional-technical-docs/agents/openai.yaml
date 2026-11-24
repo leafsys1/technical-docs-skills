@@ -1,0 +1,4 @@
+interface:
+  display_name: "专业技术文档"
+  short_description: "面向部署手册、测试手册和最佳实践，编写事实可靠、步骤完整且可复核的专业中文技术文档"
+  default_prompt: "使用 $professional-technical-docs 根据现有代码、配置和验证记录编写可复现的专业技术手册。"
